@@ -1,0 +1,19 @@
+#!/bin/sh
+
+find raw -type f > files.$$
+NUM=`wc -l < files.$$`
+
+for qid in {0,1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9}{0,1,2,3,4,5,6,7,8,9}
+  do
+echo $qid
+for user in USER{1,2,3,4}
+  do
+    FILENUM=`expr $RANDOM % $NUM + 1`
+    FILE=`head -$FILENUM < files.$$ | tail -1`
+    QL=`awk 'BEGIN {srand(); print int(-log(rand())*5)+1;}'`
+
+    tr ' ' '\n' < $FILE | grep '.' | awk 'BEGIN {srand()} {print rand(), $0}' | sort -n -t ' ' -k 1,1 | head -$QL | uniq | cut -d ' ' -f 2 | tr '\n' ' ' | sed -e 's/$/\n/' -e "s/^/$qid\t/" >> $user
+  done 
+done
+
+rm -f files.$$

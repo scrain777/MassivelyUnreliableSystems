@@ -1,0 +1,8 @@
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\obj\Debug\SimErr.Resources.resources
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\obj\Debug\SimErr.vbproj.GenerateResource.Cache
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\bin\Debug\SimErr.dll
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\bin\Debug\SimErr.pdb
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\bin\Debug\SimErr.xml
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\obj\Debug\SimErr.dll
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\obj\Debug\SimErr.xml
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\SimErr\obj\Debug\SimErr.pdb

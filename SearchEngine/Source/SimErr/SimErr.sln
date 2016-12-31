@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SimErr", "SimErr\SimErr.vbproj", "{1EDF190B-CC4F-4F2A-8B47-DBD87CC727DA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Example", "Example\Example.vbproj", "{5E5CA781-8E20-4636-BCB3-53C9F0D8F26E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7CC8C14-8A76-487F-9934-B08CD394974C}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SimErr.vsmdi = SimErr.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SimErr.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDF190B-CC4F-4F2A-8B47-DBD87CC727DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDF190B-CC4F-4F2A-8B47-DBD87CC727DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDF190B-CC4F-4F2A-8B47-DBD87CC727DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDF190B-CC4F-4F2A-8B47-DBD87CC727DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5CA781-8E20-4636-BCB3-53C9F0D8F26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5CA781-8E20-4636-BCB3-53C9F0D8F26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5CA781-8E20-4636-BCB3-53C9F0D8F26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5CA781-8E20-4636-BCB3-53C9F0D8F26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

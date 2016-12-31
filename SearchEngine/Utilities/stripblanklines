@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for file in */*
+  do
+    mv "$file" "$file.bak"
+    grep '[a-z]' "$file.bak" > "$file"
+done

@@ -1,0 +1,10 @@
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\obj\Debug\Example.vbprojResolveAssemblyReference.cache
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\Example.dll
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\Example.pdb
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\Example.xml
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\SimErr.dll
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\SimErr.pdb
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\bin\Debug\SimErr.xml
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\obj\Debug\Example.dll
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\obj\Debug\Example.xml
+C:\Users\scrain\Documents\My Dropbox\School\teaching\2014-Fall\reliable\Assignments\ProjectData\src\SimErr\Example\obj\Debug\Example.pdb

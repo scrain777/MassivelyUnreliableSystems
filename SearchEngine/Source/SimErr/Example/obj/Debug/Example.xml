@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Example
+</name>
+</assembly>
+<members>
+<member name="P:Example.Example.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="M:Example.Example.SimErrTest">
+	<summary>
+A test for SimErr
+</summary>
+</member><member name="T:Example.Example">
+	<summary>
+This is a test class for SimErrTest and is intended
+to contain all SimErrTest Unit Tests
+</summary>
+</member>
+</members>
+</doc>

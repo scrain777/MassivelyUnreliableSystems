@@ -1,0 +1,34 @@
+#!/bin/sh
+
+TARGET="."
+
+# Make note of the starting time
+START=`date +%s`
+
+# Read the controller entries
+cat controller | while read dir time len
+  do
+    # Calculate the time the change should happen
+    TIME=`expr "0$START" + "0$time"`
+
+    # Get the current time
+    NOW=`date +%s`
+
+    # If we need to wait, sleep 
+    if [ "0$NOW" -lt "0$TIME" ]
+      then
+        sleep `expr "0$TIME" - "0$NOW"`
+
+    fi
+
+    # If the change makes a file non-empty, copy the premade file of the correct length
+    if [ "0$len" -gt 0 ]
+      then
+        echo "Changing $dir"
+        cp "$TARGET/raw/$dir/$len" "$TARGET/$dir"
+      else
+        # To make it empty, we just delete it.
+        echo "Deleting $dir"
+        rm -f "$TARGET/$dir"
+    fi
+done
