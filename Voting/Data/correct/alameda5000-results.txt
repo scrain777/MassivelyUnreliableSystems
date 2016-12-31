@@ -1,0 +1,311 @@
+TALLY	AC Transit District Director, At Large	NP - Dollene C. Jones	74
+TALLY	AC Transit District Director, At Large	NP - H. E. Christian (Chris) Peeples	132
+TALLY	AC Transit District Director, At Large	Write-in	3
+TALLY	AC Transit District Director, Ward 2	NP - Greg Harper	25
+TALLY	AC Transit District Director, Ward 2	NP - Russ Tilleman	20
+TALLY	Alameda County Water District Directors	NP - Aziz Akbari	13
+TALLY	Alameda County Water District Directors	NP - James Gunther	14
+TALLY	Alameda County Water District Directors	NP - John Weed	16
+TALLY	Alameda County Water District Directors	NP - Martin L. Koller	3
+TALLY	Alameda USD Governing Board Members	NP - Anne McKereghan	4
+TALLY	Alameda USD Governing Board Members	NP - Ardella Dailey	3
+TALLY	Alameda USD Governing Board Members	NP - Dennis Popalardo	5
+TALLY	Alameda USD Governing Board Members	NP - Jennifer Williams	6
+TALLY	Alameda USD Governing Board Members	NP - Matt Hettich	2
+TALLY	Alameda USD Governing Board Members	Write-in	1
+TALLY	Auditor - Alameda	NP - Kevin R. Kearney	14
+TALLY	Auditor - Alameda	NP - Mike McMahon	4
+TALLY	BART Director, District 3	NP - Ken Chew	12
+TALLY	BART Director, District 3	NP - Rebecca Saltzman	41
+TALLY	BART Director, District 3	NP - Varun Paul	3
+TALLY	BART Director, District 3	NP - Worth Freeman	4
+TALLY	BART Director, District 5	NP - Jennifer Hosterman	26
+TALLY	BART Director, District 5	NP - John McPartland	45
+TALLY	BART Director, District 7	NP - Lateefah Simon	18
+TALLY	BART Director, District 7	NP - Will Roscoe	1
+TALLY	BART Director, District 7	NP - Zakhary Mallett	5
+TALLY	BART Director, District 7	Write-in	1
+TALLY	Bond Measure A1 - Alameda County	No	75
+TALLY	Bond Measure A1 - Alameda County	Yes	229
+TALLY	Bond Measure F1 - HARD	Bonds No	7
+TALLY	Bond Measure F1 - HARD	Bonds Yes	35
+TALLY	Bond Measure H1 - Piedmont USD	Bonds Yes	2
+TALLY	Bond Measure I1 - Pleasanton USD	Bonds No	6
+TALLY	Bond Measure I1 - Pleasanton USD	Bonds Yes	17
+TALLY	Bond Measure J1 - San Leandro USD	Bonds No	2
+TALLY	Bond Measure J1 - San Leandro USD	Bonds Yes	9
+TALLY	Bond Measure KK - City of Oakland	Bonds No	12
+TALLY	Bond Measure KK - City of Oakland	Bonds Yes	68
+TALLY	Bond Measure RR - BART	Bonds No	87
+TALLY	Bond Measure RR - BART	Bonds Yes	214
+TALLY	Bond Measure T1 - City of Berkeley	Bonds No	2
+TALLY	Bond Measure T1 - City of Berkeley	Bonds Yes	24
+TALLY	Castro Valley Sanitary District Directors	NP - Daniel M. Akagi	5
+TALLY	Castro Valley Sanitary District Directors	NP - Dave Sadoff	4
+TALLY	Castro Valley Sanitary District Directors	NP - Timothy R. McGowan	4
+TALLY	Castro Valley USD Governing Board Members	NP - Jo A.s. Loss	1
+TALLY	Castro Valley USD Governing Board Members	NP - Lavender Whitaker	2
+TALLY	Castro Valley USD Governing Board Members	NP - Monica Lee	4
+TALLY	Castro Valley USD Governing Board Members	NP - Suresh C. Gupta	2
+TALLY	Castro Valley USD Governing Board Members	NP - Tojo Thomas	1
+TALLY	Chabot-Las Positas CCD Trustee, Area #7	NP - Edralin ''Ed'' J Maduli	10
+TALLY	Chabot-Las Positas CCD Trustee, Area #7	NP - William Macedo	8
+TALLY	Chabot-Las Positas CCD Trustee, Area #7	Write-in	1
+TALLY	City Attorney - Oakland (RCV)	NP - Barbara J. Parker	61
+TALLY	Dublin USD Governing Board Members, Full Term	NP - Gabrielle Blackman	1
+TALLY	Dublin USD Governing Board Members, Full Term	NP - Joe Giannini	1
+TALLY	Dublin USD Governing Board Members, Full Term	NP - Xiaozhao Zhuang	1
+TALLY	Dublin USD Governing Board Member, Short Term	NP - Dan Cherrier	2
+TALLY	Dublin USD Governing Board Member, Short Term	NP - Sameer Hakim	2
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Audree V. Jones-Taylor	17
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Dee Rosario	36
+TALLY	East Bay Regional Park District Director, Ward 2	NP - John Roberts	3
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Kent Fickett	7
+TALLY	East Bay Regional Park District Director, Ward 2	Write-in	1
+TALLY	East Bay Regional Park District Director, Ward 4	NP - Daniel Chesmore	9
+TALLY	East Bay Regional Park District Director, Ward 4	NP - Ellen M. Corbett	35
+TALLY	East Bay Regional Park District Director, Ward 4	NP - Otis Lee Sanders	22
+TALLY	East Bay Regional Park District Director, Ward 4	Write-in	1
+TALLY	Emery USD Governing Board Members	NP - Ken Bukowski	1
+TALLY	For City Treasurer - Albany	NP - Kim Denton	5
+TALLY	Fremont USD Governing Board Members	NP - Ann Crosbie	8
+TALLY	Fremont USD Governing Board Members	NP - Dax Choksi	3
+TALLY	Fremont USD Governing Board Members	NP - Desrie Y. Campbell	5
+TALLY	Fremont USD Governing Board Members	NP - Hiu Ng	5
+TALLY	Fremont USD Governing Board Members	NP - Michele G. Berke	3
+TALLY	Hayward USD Governing Board Members	NP - Annette Walker	7
+TALLY	Hayward USD Governing Board Members	NP - Daniel Goldstein	4
+TALLY	Hayward USD Governing Board Members	NP - Joe Orlando Ramos	1
+TALLY	Hayward USD Governing Board Members	NP - John I. Taylor	5
+TALLY	Hayward USD Governing Board Members	NP - Luis Reynoso	5
+TALLY	Hayward USD Governing Board Members	NP - Robert Carlson	6
+TALLY	Hayward USD Governing Board Members	NP - Todd E. Davis	3
+TALLY	Hayward USD Governing Board Members	NP - Wynn Grcich	1
+TALLY	Livermore Area Rec & Park District Directors	NP - Beth Wilson	2
+TALLY	Livermore Area Rec & Park District Directors	NP - Jan Palajac	2
+TALLY	Livermore Area Rec & Park District Directors	NP - John Kibbe	4
+TALLY	Mayor - Berkeley (RCV)	NP - Ben Gould	2
+TALLY	Mayor - Berkeley (RCV)	NP - Jesse Arreguín	14
+TALLY	Mayor - Berkeley (RCV)	NP - Kriss Worthington	1
+TALLY	Mayor - Berkeley (RCV)	NP - Laurie Capitelli	8
+TALLY	Mayor - Berkeley (RCV)	NP - Zachary Runningwolf	1
+TALLY	Mayor - Dublin	NP - David G. Haubert	4
+TALLY	Mayor - Fremont	NP - Bill Harrison	11
+TALLY	Mayor - Fremont	NP - Lily Mei	18
+TALLY	Mayor - Livermore	NP - John P. Marchand	10
+TALLY	Mayor - Livermore	Write-in	1
+TALLY	Mayor - Newark	NP - Alan L. Nagy	11
+TALLY	Mayor - Pleasanton	NP - Jerry Thorne	14
+TALLY	Mayor - Pleasanton	NP - Julie Testa	9
+TALLY	Mayor - Union City	NP - Carol Dutra-Vernaci	6
+TALLY	Mayor - Union City	NP - Jim Navarro	5
+TALLY	Measure AA - City of Berkeley	No	6
+TALLY	Measure AA - City of Berkeley	Yes	19
+TALLY	Measure B1 - Alameda USD	No	6
+TALLY	Measure B1 - Alameda USD	Yes	17
+TALLY	Measure BB - City of Berkeley	No	16
+TALLY	Measure BB - City of Berkeley	Yes	9
+TALLY	Measure C1 - AC Transit Special Dist 1	No	31
+TALLY	Measure C1 - AC Transit Special Dist 1	Yes	163
+TALLY	Measure CC - City of Berkeley	No	15
+TALLY	Measure CC - City of Berkeley	Yes	10
+TALLY	Measure DD - City of Berkeley	No	19
+TALLY	Measure DD - City of Berkeley	Yes	6
+TALLY	Measure E1 - Berkeley USD	No	2
+TALLY	Measure E1 - Berkeley USD	Yes	24
+TALLY	Measure EE - City of Hayward	No	11
+TALLY	Measure EE - City of Hayward	Yes	19
+TALLY	Measure FF - City of Livermore	No	2
+TALLY	Measure FF - City of Livermore	Yes	11
+TALLY	Measure G1 - Oakland USD	No	11
+TALLY	Measure G1 - Oakland USD	Yes	70
+TALLY	Measure GG - City of Newark	No	5
+TALLY	Measure GG - City of Newark	Yes	8
+TALLY	Measure HH - City of Oakland	No	29
+TALLY	Measure HH - City of Oakland	Yes	54
+TALLY	Measure II - City of Oakland	No	28
+TALLY	Measure II - City of Oakland	Yes	44
+TALLY	Measure JJ - City of Oakland	No	16
+TALLY	Measure JJ - City of Oakland	Yes	56
+TALLY	Measure K1 - City of Alameda	No	8
+TALLY	Measure K1 - City of Alameda	Yes	14
+TALLY	Measure L1 - City of Alameda	No	11
+TALLY	Measure L1 - City of Alameda	Yes	11
+TALLY	Measure LL - City of Oakland	No	10
+TALLY	Measure LL - City of Oakland	Yes	64
+TALLY	Measure M1 - City of Alameda	No	15
+TALLY	Measure M1 - City of Alameda	Yes	8
+TALLY	Measure MM - City of Pleasanton	No	14
+TALLY	Measure MM - City of Pleasanton	Yes	10
+TALLY	Measure N1 - City of Albany	No	3
+TALLY	Measure N1 - City of Albany	Yes	4
+TALLY	Measure NN - City of San Leandro	No	5
+TALLY	Measure NN - City of San Leandro	Yes	11
+TALLY	Measure O1 - City of Albany	No	2
+TALLY	Measure O1 - City of Albany	Yes	6
+TALLY	Measure OO - City of San Leandro	No	7
+TALLY	Measure OO - City of San Leandro	Yes	8
+TALLY	Measure P1 - City of Albany	No	2
+TALLY	Measure P1 - City of Albany	Yes	6
+TALLY	Measure PP - City of San Leandro	No	6
+TALLY	Measure PP - City of San Leandro	Yes	9
+TALLY	Measure Q1 - City of Albany	Yes	5
+TALLY	Measure QQ - City of Union City	No	3
+TALLY	Measure QQ - City of Union City	Yes	8
+TALLY	Measure R1 - City of Albany	No	1
+TALLY	Measure R1 - City of Albany	Yes	4
+TALLY	Measure S1 - City of Albany	No	4
+TALLY	Measure S1 - City of Albany	Yes	4
+TALLY	Measure U1 - City of Berkeley	No	7
+TALLY	Measure U1 - City of Berkeley	Yes	19
+TALLY	Measure V1 - City of Berkeley	No	4
+TALLY	Measure V1 - City of Berkeley	Yes	19
+TALLY	Measure W1 - City of Berkeley	No	3
+TALLY	Measure W1 - City of Berkeley	Yes	23
+TALLY	Measure X1 - City of Berkeley	No	8
+TALLY	Measure X1 - City of Berkeley	Yes	12
+TALLY	Measure Y1 - City of Berkeley	No	4
+TALLY	Measure Y1 - City of Berkeley	Yes	21
+TALLY	Measure Z1 - City of Berkeley	No	5
+TALLY	Measure Z1 - City of Berkeley	Yes	17
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Bruce Quan	15
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Francis ''Matt'' Hummel	5
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Nancy Sidebotham	4
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Peggy Moore	12
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Rebecca Kaplan	35
+TALLY	Member, City Council, Dist. 1 - Oakland (RCV)	NP - Dan Kalb	11
+TALLY	Member, City Council, Dist. 1 - Oakland (RCV)	NP - Kevin M. Corbett	5
+TALLY	Member, City Council, Dist. 2 - San Leandro (RCV)	NP - Bryan Azevedo	8
+TALLY	Member, City Council, Dist. 2 - San Leandro (RCV)	NP - Ed Hernandez	7
+TALLY	Member, City Council, Dist. 3 - Berkeley (RCV)	NP - Ben Bartlett	3
+TALLY	Member, City Council, Dist. 3 - Berkeley (RCV)	NP - Mark A. Coplan	2
+TALLY	Member, City Council, Dist. 3 - Oakland (RCV)	NP - Lynette Gibson McElhaney	7
+TALLY	Member, City Council, Dist. 3 - Oakland (RCV)	NP - Noni D. Session	6
+TALLY	Member, City Council, Dist. 4 - San Leandro (RCV)	NP - Benny Lee	12
+TALLY	Member, City Council, Dist. 4 - San Leandro (RCV)	Write-in	1
+TALLY	Member, City Council, Dist. 5 - Berkeley (RCV)	NP - Sophie Hahn	1
+TALLY	Member, City Council, Dist. 5 - Berkeley (RCV)	NP - Stephen Murphy	2
+TALLY	Member, City Council, Dist. 5 - Oakland (RCV)	NP - Noel Gallo	4
+TALLY	Member, City Council, Dist. 5 - Oakland (RCV)	NP - Viola Gonzales	2
+TALLY	Member, City Council, Dist. 6 - Berkeley (RCV)	NP - Isabelle Gaston	1
+TALLY	Member, City Council, Dist. 6 - Berkeley (RCV)	NP - Susan Wengraf	2
+TALLY	Member, City Council, Dist. 6 - San Leandro (RCV)	NP - Pete Ballew	12
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Larry E. Reid	2
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Marcie Hodge	2
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Nehanda Imara	1
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	Write-in	1
+TALLY	Member, City Council - Union City	NP - Gary Singh	3
+TALLY	Member, City Council - Union City	NP - Jaime Patiño	5
+TALLY	Member, City Council - Union City	NP - Lee Guio	1
+TALLY	Members, Board of Education - Albany	NP - Clementina Duron	2
+TALLY	Members, Board of Education - Albany	NP - Jacob Clark	3
+TALLY	Members, Board of Education - Albany	NP - Jon Raj Destin	2
+TALLY	Members, Board of Education - Albany	NP - Kim Trutane	1
+TALLY	Members, Board of Education - Piedmont	NP - Sarah Pearson	2
+TALLY	Members, City Council - Alameda	NP - Jennifer Roloff	3
+TALLY	Members, City Council - Alameda	NP - Lena Tam	2
+TALLY	Members, City Council - Alameda	NP - Malia (Mary) Vella	4
+TALLY	Members, City Council - Alameda	NP - Marilyn Ezzy Ashcraft	8
+TALLY	Members, City Council - Alameda	NP - Tony Daysog	4
+TALLY	Members, City Council - Albany	NP - Amber Whitson	1
+TALLY	Members, City Council - Albany	NP - Erik Giesen-Fields	2
+TALLY	Members, City Council - Albany	NP - Michael Barnes	2
+TALLY	Members, City Council - Albany	NP - Nick Pilch	4
+TALLY	Members, City Council - Albany	NP - Peter Maass	2
+TALLY	Members, City Council -  Dublin	NP - Arun Goel	1
+TALLY	Members, City Council -  Emeryville	NP - Brynnda Collins	1
+TALLY	Members, City Council -  Emeryville	NP - John J. Bauters	2
+TALLY	Members, City Council -  Fremont	NP - Kathy Kimberlin	6
+TALLY	Members, City Council -  Fremont	NP - Laurie Manuel	2
+TALLY	Members, City Council -  Fremont	NP - Raj Salwan	10
+TALLY	Members, City Council -  Fremont	NP - Rakesh Sharma	3
+TALLY	Members, City Council -  Fremont	NP - Vinnie Bacon	7
+TALLY	Members, City Council - Livermore	NP - Bob Coomber	1
+TALLY	Members, City Council - Livermore	NP - Chester A. Moore	1
+TALLY	Members, City Council - Livermore	NP - John Stein	2
+TALLY	Members, City Council - Livermore	NP - Laureen Turner	3
+TALLY	Members, City Council - Livermore	NP - Robert W. Carling	2
+TALLY	Members, City Council - Livermore	NP - Stewart W. Gary	6
+TALLY	Members, City Council - Newark	NP - Luis L. Freitas	4
+TALLY	Members, City Council - Newark	NP - Maria ''Sucy'' Collazo	3
+TALLY	Members, City Council - Piedmont	NP - Jen Cavenaugh	1
+TALLY	Members, City Council - Pleasanton	NP - Herb Ritter	5
+TALLY	Members, City Council - Pleasanton	NP - Jerry Pentin	5
+TALLY	Members, City Council - Pleasanton	NP - Karla Brown	11
+TALLY	New Haven USD Governing Board Members	NP - Jeff Wang	2
+TALLY	New Haven USD Governing Board Members	NP - Jonas Dino	1
+TALLY	New Haven USD Governing Board Members	NP - Lance Nishihira	1
+TALLY	New Haven USD Governing Board Members	NP - Michael Ritchie	5
+TALLY	New Haven USD Governing Board Members	NP - Sharan Kaur	2
+TALLY	Oro Loma Sanitary District Director, 2 Year Term	NP - Chike Udemezue	6
+TALLY	Oro Loma Sanitary District Director, 2 Year Term	NP - Rita Duncan	10
+TALLY	Oro Loma Sanitary District Directors, 4 Year Term	NP - Diana Souza	4
+TALLY	Oro Loma Sanitary District Directors, 4 Year Term	NP - Roland J. Dias	1
+TALLY	Peralta CCD Trustee, Area #6	NP - Karen Weinstein	16
+TALLY	Peralta CCD Trustee, Area #6	NP - Nick Resnick	4
+TALLY	Pleasanton USD Governing Board Members	NP - Jamie Yee Hintzke	1
+TALLY	Pleasanton USD Governing Board Members	NP - Kathleen Ruegsegger	5
+TALLY	Pleasanton USD Governing Board Members	NP - Steve Maher	15
+TALLY	Pleasanton USD Governing Board Members	NP - Valerie Arkin	4
+TALLY	President and Vice President	DEM - Hillary Clinton	255
+TALLY	President and Vice President	GRN - Jill Stein	5
+TALLY	President and Vice President	LIB - Gary Johnson	7
+TALLY	President and Vice President	PF - Gloria Estela La Riva	1
+TALLY	President and Vice President	REP, AI - Donald J. Trump	48
+TALLY	President and Vice President	Write-in	5
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Alejandro Soto-Vigil	5
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Christina Murphy	4
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Igor Tregub	2
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Judy J. Hunt	5
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Leah Simon-Weisberg	9
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Nate Wollman	7
+TALLY	San Lorenzo USD Governing Board Members	NP - Helen K. Foster	2
+TALLY	San Lorenzo USD Governing Board Members	NP - Kyla Sinegal	1
+TALLY	San Lorenzo USD Governing Board Members	NP - Marilyn Stewart	2
+TALLY	San Lorenzo USD Governing Board Members	NP - Penny Peck	2
+TALLY	School Director, District 1 - Oakland (RCV)	NP - Don Macleay	4
+TALLY	School Director, District 1 - Oakland (RCV)	NP - Jody London	10
+TALLY	School Director, District 3 - Oakland (RCV)	NP - Benjamin Lang	3
+TALLY	School Director, District 3 - Oakland (RCV)	NP - Jumoke Hinton Hodge	6
+TALLY	School Director, District 3 - Oakland (RCV)	NP - Kharyshi ''Ms. K'' Wiginton	2
+TALLY	School Director, District 3 - Oakland (RCV)	NP - Lucky Narain	1
+TALLY	School Director, District 5 - Oakland (RCV)	NP - Huber Trenado	3
+TALLY	School Director, District 5 - Oakland (RCV)	NP - Mike Hassid	1
+TALLY	School Director, District 5 - Oakland (RCV)	NP - Mike Hutchinson	1
+TALLY	School Director, District 5 - Oakland (RCV)	NP - Rosie Torres	1
+TALLY	School Director, District 7 - Oakland (RCV)	NP - Chris Jackson	3
+TALLY	School Director, District 7 - Oakland (RCV)	NP - James Harris	3
+TALLY	School Directors - Berkeley	NP - Abdur Sikder	1
+TALLY	School Directors - Berkeley	NP - Beatriz Leyva-Cutler	8
+TALLY	School Directors - Berkeley	NP - Judy Appel	11
+TALLY	State Assembly, 15th District	DEM - Tony Thurmond	59
+TALLY	State Assembly, 15th District	REP - Claire Chiara	5
+TALLY	State Assembly, 16th District	DEM - Cheryl Cook-Kallio	19
+TALLY	State Assembly, 16th District	REP - Catharine Baker	24
+TALLY	State Assembly, 18th District	DEM - Rob Bonta	67
+TALLY	State Assembly, 18th District	REP - Roseann Slonsky-Breault	17
+TALLY	State Assembly, 20th District	DEM - Bill Quirk	56
+TALLY	State Assembly, 20th District	REP - Luis A. Wong	21
+TALLY	State Assembly, 25th District	DEM - Kansen Chu	18
+TALLY	State Assembly, 25th District	REP - Bob Brunton	8
+TALLY	State Senator, 7th District	DEM - Steve Glazer	30
+TALLY	State Senator, 7th District	REP - Joseph Alexander Rubay	18
+TALLY	State Senator, 9th District	DEM - Nancy Skinner	85
+TALLY	State Senator, 9th District	DEM - Sandré R. Swanson	62
+TALLY	Superior Court Judge, Office #1	NP - Barbara Thomas	125
+TALLY	Superior Court Judge, Office #1	NP - Scott Jackson	153
+TALLY	Superior Court Judge, Office #1	Write-in	1
+TALLY	Treasurer - Alameda	NP - Jeff Bratzler	3
+TALLY	Treasurer - Alameda	NP - Kevin Kennedy	16
+TALLY	U.S. Representative, 13th Congressional	DEM - Barbara Lee	135
+TALLY	U.S. Representative, 13th Congressional	REP - Sue Caro	13
+TALLY	U.S. Representative, 15th Congressional	DEM - Eric Swalwell	77
+TALLY	U.S. Representative, 15th Congressional	REP - Danny R. Turner	27
+TALLY	U.S. Representative, 17th Congressional	DEM - Mike Honda	9
+TALLY	U.S. Representative, 17th Congressional	DEM - Ro Khanna	22
+TALLY	U.S. Senator	DEM - Kamala D. Harris	213
+TALLY	U.S. Senator	DEM - Loretta L. Sanchez	71
+TALLY	Washington Township Healthcare District Directors	NP - Chitra Ramanathan	8
+TALLY	Washington Township Healthcare District Directors	NP - Patricia 'Pat' Danielson	14
+TALLY	Washington Township Healthcare District Directors	NP - William F. Nicholson	21
+VOTERS	330

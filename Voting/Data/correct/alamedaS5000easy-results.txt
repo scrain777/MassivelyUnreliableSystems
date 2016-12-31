@@ -1,0 +1,185 @@
+TALLY	AC Transit District Director, At Large	NP - Dollene C. Jones	59
+TALLY	AC Transit District Director, At Large	NP - H. E. Christian (Chris) Peeples	117
+TALLY	AC Transit District Director, Ward 2	NP - Greg Harper	14
+TALLY	AC Transit District Director, Ward 2	NP - Russ Tilleman	5
+TALLY	AC Transit District Director, Ward 2	Write-in	1
+TALLY	Alameda County Water District Directors	NP - Aziz Akbari	51
+TALLY	Alameda County Water District Directors	NP - James Gunther	58
+TALLY	Alameda County Water District Directors	NP - John Weed	57
+TALLY	Alameda County Water District Directors	NP - Martin L. Koller	38
+TALLY	BART Director, District 3	NP - Ken Chew	17
+TALLY	BART Director, District 3	NP - Rebecca Saltzman	27
+TALLY	BART Director, District 3	NP - Varun Paul	8
+TALLY	BART Director, District 3	NP - Worth Freeman	2
+TALLY	BART Director, District 5	NP - Jennifer Hosterman	3
+TALLY	BART Director, District 5	NP - John McPartland	8
+TALLY	Bond Measure A1 - Alameda County	No	54
+TALLY	Bond Measure A1 - Alameda County	Yes	163
+TALLY	Bond Measure F1 - HARD	Bonds Yes	8
+TALLY	Bond Measure H1 - Piedmont USD	Bonds No	5
+TALLY	Bond Measure H1 - Piedmont USD	Bonds Yes	17
+TALLY	Bond Measure RR - BART	Bonds No	65
+TALLY	Bond Measure RR - BART	Bonds Yes	153
+TALLY	Bond Measure T1 - City of Berkeley	Bonds No	10
+TALLY	Bond Measure T1 - City of Berkeley	Bonds Yes	90
+TALLY	Castro Valley Sanitary District Directors	NP - Daniel M. Akagi	12
+TALLY	Castro Valley Sanitary District Directors	NP - Dave Sadoff	16
+TALLY	Castro Valley Sanitary District Directors	NP - John Maher	3
+TALLY	Castro Valley Sanitary District Directors	NP - Timothy R. McGowan	11
+TALLY	Castro Valley USD Governing Board Members	NP - Jo A.s. Loss	11
+TALLY	Castro Valley USD Governing Board Members	NP - Lavender Whitaker	10
+TALLY	Castro Valley USD Governing Board Members	NP - Monica Lee	9
+TALLY	Castro Valley USD Governing Board Members	NP - Suresh C. Gupta	6
+TALLY	Castro Valley USD Governing Board Members	NP - Tojo Thomas	6
+TALLY	Chabot-Las Positas CCD Trustee, Area #7	NP - Edralin ''Ed'' J Maduli	46
+TALLY	Chabot-Las Positas CCD Trustee, Area #7	NP - William Macedo	44
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Audree V. Jones-Taylor	16
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Dee Rosario	14
+TALLY	East Bay Regional Park District Director, Ward 2	NP - John Roberts	3
+TALLY	East Bay Regional Park District Director, Ward 2	NP - Kent Fickett	8
+TALLY	East Bay Regional Park District Director, Ward 4	NP - Ellen M. Corbett	1
+TALLY	East Bay Regional Park District Director, Ward 4	NP - Otis Lee Sanders	1
+TALLY	Emery USD Governing Board Members	NP - Barbara Inch	8
+TALLY	Emery USD Governing Board Members	NP - Cruz J. Vargas	7
+TALLY	Emery USD Governing Board Members	NP - Ken Bukowski	2
+TALLY	Emery USD Governing Board Members	Write-in	1
+TALLY	For City Treasurer - Albany	NP - Kim Denton	23
+TALLY	Livermore Area Rec & Park District Directors	NP - Beth Wilson	6
+TALLY	Livermore Area Rec & Park District Directors	NP - Jan Palajac	5
+TALLY	Livermore Area Rec & Park District Directors	NP - John Kibbe	3
+TALLY	Mayor - Berkeley (RCV)	NP - Ben Gould	3
+TALLY	Mayor - Berkeley (RCV)	NP - Bernt Rainer Wahl	2
+TALLY	Mayor - Berkeley (RCV)	NP - Guy ''Mike'' Lee	3
+TALLY	Mayor - Berkeley (RCV)	NP - Jesse Arreguín	50
+TALLY	Mayor - Berkeley (RCV)	NP - Kriss Worthington	8
+TALLY	Mayor - Berkeley (RCV)	NP - Laurie Capitelli	35
+TALLY	Mayor - Berkeley (RCV)	NP - Naomi D. Pete	1
+TALLY	Mayor - Berkeley (RCV)	NP - Zachary Runningwolf	1
+TALLY	Mayor - Newark	NP - Alan L. Nagy	45
+TALLY	Mayor - Newark	Write-in	5
+TALLY	Measure AA - City of Berkeley	No	30
+TALLY	Measure AA - City of Berkeley	Yes	71
+TALLY	Measure BB - City of Berkeley	No	61
+TALLY	Measure BB - City of Berkeley	Yes	34
+TALLY	Measure C1 - AC Transit Special Dist 1	No	21
+TALLY	Measure C1 - AC Transit Special Dist 1	Yes	96
+TALLY	Measure CC - City of Berkeley	No	65
+TALLY	Measure CC - City of Berkeley	Yes	28
+TALLY	Measure DD - City of Berkeley	No	71
+TALLY	Measure DD - City of Berkeley	Yes	21
+TALLY	Measure E1 - Berkeley USD	No	8
+TALLY	Measure E1 - Berkeley USD	Yes	95
+TALLY	Measure GG - City of Newark	No	27
+TALLY	Measure GG - City of Newark	Yes	30
+TALLY	Measure N1 - City of Albany	No	10
+TALLY	Measure N1 - City of Albany	Yes	15
+TALLY	Measure O1 - City of Albany	No	8
+TALLY	Measure O1 - City of Albany	Yes	19
+TALLY	Measure P1 - City of Albany	No	6
+TALLY	Measure P1 - City of Albany	Yes	21
+TALLY	Measure Q1 - City of Albany	No	5
+TALLY	Measure Q1 - City of Albany	Yes	22
+TALLY	Measure R1 - City of Albany	No	8
+TALLY	Measure R1 - City of Albany	Yes	15
+TALLY	Measure S1 - City of Albany	No	20
+TALLY	Measure S1 - City of Albany	Yes	5
+TALLY	Measure U1 - City of Berkeley	No	28
+TALLY	Measure U1 - City of Berkeley	Yes	72
+TALLY	Measure V1 - City of Berkeley	No	9
+TALLY	Measure V1 - City of Berkeley	Yes	85
+TALLY	Measure W1 - City of Berkeley	No	12
+TALLY	Measure W1 - City of Berkeley	Yes	83
+TALLY	Measure X1 - City of Berkeley	No	20
+TALLY	Measure X1 - City of Berkeley	Yes	71
+TALLY	Measure Y1 - City of Berkeley	No	30
+TALLY	Measure Y1 - City of Berkeley	Yes	65
+TALLY	Measure Z1 - City of Berkeley	No	15
+TALLY	Measure Z1 - City of Berkeley	Yes	82
+TALLY	Member, City Council, Dist. 2 - Berkeley (RCV)	NP - Cheryl Davila	5
+TALLY	Member, City Council, Dist. 2 - Berkeley (RCV)	NP - Darryl Moore	4
+TALLY	Member, City Council, Dist. 2 - Berkeley (RCV)	NP - Nanci Ira Armstrong-Temple	8
+TALLY	Member, City Council, Dist. 3 - Berkeley (RCV)	NP - Ben Bartlett	11
+TALLY	Member, City Council, Dist. 3 - Berkeley (RCV)	NP - Deborah Matthews	6
+TALLY	Member, City Council, Dist. 3 - Berkeley (RCV)	NP - Mark A. Coplan	4
+TALLY	Member, City Council, Dist. 5 - Berkeley (RCV)	NP - Sophie Hahn	23
+TALLY	Member, City Council, Dist. 5 - Berkeley (RCV)	NP - Stephen Murphy	21
+TALLY	Member, City Council, Dist. 6 - Berkeley (RCV)	NP - Fred Dodsworth	8
+TALLY	Member, City Council, Dist. 6 - Berkeley (RCV)	NP - Isabelle Gaston	2
+TALLY	Member, City Council, Dist. 6 - Berkeley (RCV)	NP - Susan Wengraf	11
+TALLY	Members, Board of Education - Albany	NP - Clementina Duron	7
+TALLY	Members, Board of Education - Albany	NP - Jacob Clark	6
+TALLY	Members, Board of Education - Albany	NP - Jon Raj Destin	3
+TALLY	Members, Board of Education - Albany	NP - Kim Trutane	8
+TALLY	Members, Board of Education - Piedmont	NP - Andrea Swenson	3
+TALLY	Members, Board of Education - Piedmont	NP - Cory Smegal	5
+TALLY	Members, Board of Education - Piedmont	NP - Hari Titan	4
+TALLY	Members, Board of Education - Piedmont	NP - Julie Caskey	5
+TALLY	Members, Board of Education - Piedmont	NP - Sarah Pearson	7
+TALLY	Members, City Council - Albany	NP - Amber Whitson	1
+TALLY	Members, City Council - Albany	NP - Erik Giesen-Fields	4
+TALLY	Members, City Council - Albany	NP - Michael Barnes	5
+TALLY	Members, City Council - Albany	NP - Nick Pilch	7
+TALLY	Members, City Council - Albany	NP - Peter Maass	10
+TALLY	Members, City Council -  Emeryville	NP - Ally Medina	8
+TALLY	Members, City Council -  Emeryville	NP - Brynnda Collins	2
+TALLY	Members, City Council -  Emeryville	NP - Christian Patz	2
+TALLY	Members, City Council -  Emeryville	NP - John J. Bauters	6
+TALLY	Members, City Council -  Emeryville	NP - John Van Geffen	6
+TALLY	Members, City Council -  Emeryville	NP - Louise Engel	1
+TALLY	Members, City Council - Newark	NP - Luis L. Freitas	18
+TALLY	Members, City Council - Newark	NP - Maria ''Sucy'' Collazo	24
+TALLY	Members, City Council - Piedmont	NP - Bob McBain	3
+TALLY	Members, City Council - Piedmont	NP - Jen Cavenaugh	5
+TALLY	Members, City Council - Piedmont	NP - Jonathan Levine	8
+TALLY	Members, City Council - Piedmont	NP - N. ''Sunny'' Bostrom-Fleming	1
+TALLY	Oro Loma Sanitary District Director, 2 Year Term	NP - Chike Udemezue	1
+TALLY	Oro Loma Sanitary District Directors, 4 Year Term	NP - Dan Walters	12
+TALLY	Oro Loma Sanitary District Directors, 4 Year Term	NP - Diana Souza	7
+TALLY	Oro Loma Sanitary District Directors, 4 Year Term	NP - Roland J. Dias	12
+TALLY	Peralta CCD Trustee, Area #6	NP - Karen Weinstein	98
+TALLY	Peralta CCD Trustee, Area #6	NP - Nick Resnick	35
+TALLY	President and Vice President	DEM - Hillary Clinton	185
+TALLY	President and Vice President	GRN - Jill Stein	4
+TALLY	President and Vice President	LIB - Gary Johnson	10
+TALLY	President and Vice President	REP, AI - Donald J. Trump	25
+TALLY	President and Vice President	Write-in	8
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Alejandro Soto-Vigil	16
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Christina Murphy	22
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Igor Tregub	22
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Judy J. Hunt	19
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Leah Simon-Weisberg	24
+TALLY	Rent Stabilization Board Commissioners - Berkeley	NP - Nate Wollman	12
+TALLY	San Joaquin Delta CCD Trustee, Area #1	NP - C. Jennet Stebbins	1
+TALLY	San Joaquin Delta CCD Trustee, Area #6	NP - Juan Ensastegui Lopez	1
+TALLY	School Directors - Berkeley	NP - Abdur Sikder	6
+TALLY	School Directors - Berkeley	NP - Beatriz Leyva-Cutler	34
+TALLY	School Directors - Berkeley	NP - Judy Appel	39
+TALLY	State Assembly, 15th District	DEM - Tony Thurmond	154
+TALLY	State Assembly, 15th District	REP - Claire Chiara	12
+TALLY	State Assembly, 16th District	DEM - Cheryl Cook-Kallio	5
+TALLY	State Assembly, 16th District	REP - Catharine Baker	2
+TALLY	State Assembly, 18th District	DEM - Rob Bonta	154
+TALLY	State Assembly, 18th District	REP - Roseann Slonsky-Breault	33
+TALLY	State Assembly, 20th District	DEM - Bill Quirk	28
+TALLY	State Assembly, 20th District	REP - Luis A. Wong	7
+TALLY	State Assembly, 25th District	DEM - Kansen Chu	76
+TALLY	State Assembly, 25th District	REP - Bob Brunton	18
+TALLY	State Senator, 7th District	DEM - Steve Glazer	71
+TALLY	State Senator, 7th District	REP - Joseph Alexander Rubay	30
+TALLY	State Senator, 9th District	DEM - Nancy Skinner	93
+TALLY	State Senator, 9th District	DEM - Sandré R. Swanson	59
+TALLY	Sunol Glen USD Governing Board Member	NP - Denise Kent-Romo	3
+TALLY	Sunol Glen USD Governing Board Member	NP - Patricia Picard	4
+TALLY	Superior Court Judge, Office #1	NP - Barbara Thomas	93
+TALLY	Superior Court Judge, Office #1	NP - Scott Jackson	94
+TALLY	Superior Court Judge, Office #1	Write-in	1
+TALLY	U.S. Representative, 13th Congressional	DEM - Barbara Lee	119
+TALLY	U.S. Representative, 13th Congressional	REP - Sue Caro	11
+TALLY	U.S. Representative, 15th Congressional	DEM - Eric Swalwell	10
+TALLY	U.S. Representative, 15th Congressional	REP - Danny R. Turner	6
+TALLY	U.S. Senator	DEM - Kamala D. Harris	165
+TALLY	U.S. Senator	DEM - Loretta L. Sanchez	44
+TALLY	Washington Township Healthcare District Directors	NP - Chitra Ramanathan	7
+TALLY	Washington Township Healthcare District Directors	NP - Patricia 'Pat' Danielson	7
+TALLY	Washington Township Healthcare District Directors	NP - William F. Nicholson	8
+VOTERS	236

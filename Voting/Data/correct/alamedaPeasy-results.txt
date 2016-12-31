@@ -1,0 +1,62 @@
+TALLY	AC Transit District Director, At Large	NP - Dollene C. Jones	115
+TALLY	AC Transit District Director, At Large	NP - H. E. Christian (Chris) Peeples	249
+TALLY	AC Transit District Director, At Large	Write-in	3
+TALLY	AC Transit District Director, Ward 2	NP - Greg Harper	242
+TALLY	AC Transit District Director, Ward 2	NP - Russ Tilleman	150
+TALLY	AC Transit District Director, Ward 2	Write-in	2
+TALLY	BART Director, District 3	NP - Ken Chew	76
+TALLY	BART Director, District 3	NP - Rebecca Saltzman	214
+TALLY	BART Director, District 3	NP - Varun Paul	39
+TALLY	BART Director, District 3	NP - Worth Freeman	18
+TALLY	BART Director, District 3	Write-in	4
+TALLY	Bond Measure A1 - Alameda County	No	118
+TALLY	Bond Measure A1 - Alameda County	Yes	339
+TALLY	Bond Measure KK - City of Oakland	Bonds No	112
+TALLY	Bond Measure KK - City of Oakland	Bonds Yes	369
+TALLY	Bond Measure RR - BART	Bonds No	143
+TALLY	Bond Measure RR - BART	Bonds Yes	313
+TALLY	City Attorney - Oakland (RCV)	NP - Barbara J. Parker	353
+TALLY	City Attorney - Oakland (RCV)	Write-in	6
+TALLY	Measure C1 - AC Transit Special Dist 1	No	96
+TALLY	Measure C1 - AC Transit Special Dist 1	Yes	388
+TALLY	Measure G1 - Oakland USD	No	89
+TALLY	Measure G1 - Oakland USD	Yes	395
+TALLY	Measure HH - City of Oakland	No	167
+TALLY	Measure HH - City of Oakland	Yes	330
+TALLY	Measure II - City of Oakland	No	169
+TALLY	Measure II - City of Oakland	Yes	240
+TALLY	Measure JJ - City of Oakland	No	122
+TALLY	Measure JJ - City of Oakland	Yes	345
+TALLY	Measure LL - City of Oakland	No	74
+TALLY	Measure LL - City of Oakland	Yes	393
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Bruce Quan	96
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Francis ''Matt'' Hummel	31
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Nancy Sidebotham	22
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Peggy Moore	84
+TALLY	Member, City Council, At Large - Oakland (RCV)	NP - Rebecca Kaplan	222
+TALLY	Member, City Council, At Large - Oakland (RCV)	Write-in	1
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Larry E. Reid	282
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Marcie Hodge	107
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	NP - Nehanda Imara	103
+TALLY	Member, City Council, Dist. 7 - Oakland (RCV)	Write-in	5
+TALLY	President and Vice President	DEM - Hillary Clinton	387
+TALLY	President and Vice President	GRN - Jill Stein	11
+TALLY	President and Vice President	LIB - Gary Johnson	11
+TALLY	President and Vice President	PF - Gloria Estela La Riva	3
+TALLY	President and Vice President	REP, AI - Donald J. Trump	70
+TALLY	President and Vice President	Write-in	7
+TALLY	School Director, District 7 - Oakland (RCV)	NP - Chris Jackson	180
+TALLY	School Director, District 7 - Oakland (RCV)	NP - James Harris	312
+TALLY	School Director, District 7 - Oakland (RCV)	Write-in	5
+TALLY	State Assembly, 15th District	DEM - Tony Thurmond	437
+TALLY	State Assembly, 15th District	REP - Claire Chiara	51
+TALLY	State Assembly, 18th District	DEM - Rob Bonta	435
+TALLY	State Assembly, 18th District	REP - Roseann Slonsky-Breault	62
+TALLY	Superior Court Judge, Office #1	NP - Barbara Thomas	195
+TALLY	Superior Court Judge, Office #1	NP - Scott Jackson	201
+TALLY	Superior Court Judge, Office #1	Write-in	4
+TALLY	U.S. Representative, 15th Congressional	DEM - Eric Swalwell	253
+TALLY	U.S. Representative, 15th Congressional	REP - Danny R. Turner	79
+TALLY	U.S. Senator	DEM - Kamala D. Harris	326
+TALLY	U.S. Senator	DEM - Loretta L. Sanchez	97
+VOTERS	497
